@@ -1,4 +1,4 @@
-
+# -*- coding: utf-8 -*-
 
 from json import JSONEncoder
 from flask import Flask, jsonify, request
